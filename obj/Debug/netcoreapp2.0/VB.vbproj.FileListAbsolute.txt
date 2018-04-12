@@ -1,0 +1,10 @@
+/Users/ryan/Git/VB/bin/Debug/netcoreapp2.0/VB.deps.json
+/Users/ryan/Git/VB/bin/Debug/netcoreapp2.0/VB.runtimeconfig.json
+/Users/ryan/Git/VB/bin/Debug/netcoreapp2.0/VB.runtimeconfig.dev.json
+/Users/ryan/Git/VB/bin/Debug/netcoreapp2.0/VB.dll
+/Users/ryan/Git/VB/bin/Debug/netcoreapp2.0/VB.pdb
+/Users/ryan/Git/VB/obj/Debug/netcoreapp2.0/VB.vbproj.CoreCompileInputs.cache
+/Users/ryan/Git/VB/obj/Debug/netcoreapp2.0/VB.AssemblyInfoInputs.cache
+/Users/ryan/Git/VB/obj/Debug/netcoreapp2.0/VB.AssemblyInfo.vb
+/Users/ryan/Git/VB/obj/Debug/netcoreapp2.0/VB.dll
+/Users/ryan/Git/VB/obj/Debug/netcoreapp2.0/VB.pdb
